@@ -2,3 +2,4 @@
 2. My second commit in master branch
 3. My first commit in dev branch
 4. My second commit in dev branch
+5. My first commit in feature/do_one branch
