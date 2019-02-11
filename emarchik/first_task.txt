@@ -3,3 +3,5 @@
 3. My first commit in dev branch
 4. My second commit in dev branch
 5. My first commit in feature/do_one branch
+6.Create and first commit in hostfix/we_gonna_die
+
